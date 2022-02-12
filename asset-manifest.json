@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dogsorigamid/static/css/main.d4b9aa4c.css",
-    "main.js": "/dogsorigamid/static/js/main.c3b18841.js",
+    "main.css": "/dogsorigamid/static/css/main.c68518ab.css",
+    "main.js": "/dogsorigamid/static/js/main.8609f801.js",
     "static/media/usuario.svg": "/dogsorigamid/static/media/usuario.6d65a298e2fba2e83683.svg",
     "index.html": "/dogsorigamid/index.html",
     "static/media/dogs.svg": "/dogsorigamid/static/media/dogs.69bf6d229e8cb46f9023318d0802ee8f.svg",
-    "main.d4b9aa4c.css.map": "/dogsorigamid/static/css/main.d4b9aa4c.css.map",
-    "main.c3b18841.js.map": "/dogsorigamid/static/js/main.c3b18841.js.map"
+    "main.c68518ab.css.map": "/dogsorigamid/static/css/main.c68518ab.css.map",
+    "main.8609f801.js.map": "/dogsorigamid/static/js/main.8609f801.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4b9aa4c.css",
-    "static/js/main.c3b18841.js"
+    "static/css/main.c68518ab.css",
+    "static/js/main.8609f801.js"
   ]
 }

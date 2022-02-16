@@ -16,10 +16,12 @@ const Header = () => {
         </Link>
         {data ? (
           <>
-            <Link className={styles.login} to="/conta">
-              {data.nome}
-            </Link>
-            <button onClick={userLogout}>Sair</button>
+            <div style={{ display: "flex" }}>
+              <Link className={styles.login} to="/conta">
+                {data.nome}
+              </Link>
+              <button onClick={userLogout}>Sair</button>
+            </div>
           </>
         ) : (
           <Link className={styles.login} to="/login">

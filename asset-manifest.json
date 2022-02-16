@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/dogsorigamid/static/css/main.c68518ab.css",
-    "main.js": "/dogsorigamid/static/js/main.8609f801.js",
+    "main.css": "/dogsorigamid/static/css/main.1af57858.css",
+    "main.js": "/dogsorigamid/static/js/main.20de78e7.js",
+    "static/media/login.jpg": "/dogsorigamid/static/media/login.07d71f5b9d5714e556b0.jpg",
     "static/media/usuario.svg": "/dogsorigamid/static/media/usuario.6d65a298e2fba2e83683.svg",
     "index.html": "/dogsorigamid/index.html",
     "static/media/dogs.svg": "/dogsorigamid/static/media/dogs.69bf6d229e8cb46f9023318d0802ee8f.svg",
-    "main.c68518ab.css.map": "/dogsorigamid/static/css/main.c68518ab.css.map",
-    "main.8609f801.js.map": "/dogsorigamid/static/js/main.8609f801.js.map"
+    "main.1af57858.css.map": "/dogsorigamid/static/css/main.1af57858.css.map",
+    "main.20de78e7.js.map": "/dogsorigamid/static/js/main.20de78e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c68518ab.css",
-    "static/js/main.8609f801.js"
+    "static/css/main.1af57858.css",
+    "static/js/main.20de78e7.js"
   ]
 }

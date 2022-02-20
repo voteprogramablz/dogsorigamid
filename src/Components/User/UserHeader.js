@@ -11,7 +11,6 @@ const UserHeader = () => {
   React.useEffect(() => {
     const { pathname } = location;
     setTitle(location.pathname);
-    if ("/conta/estatisticas" === location.pathname) setTitle("Estatísticas");
     switch (pathname) {
       case "/conta/postar":
         setTitle("Poste sua foto");
@@ -23,6 +22,7 @@ const UserHeader = () => {
         setTitle("Minha conta");
     }
   }, [location]);
+  
   return (
     <header className={styles.header}>
       <h1 className="title">{title}</h1>

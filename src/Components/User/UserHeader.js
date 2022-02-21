@@ -6,7 +6,6 @@ import { useLocation } from "react-router-dom";
 const UserHeader = () => {
   const [title, setTitle] = React.useState("");
   const location = useLocation();
-  console.log(location);
 
   React.useEffect(() => {
     const { pathname } = location;
@@ -22,7 +21,7 @@ const UserHeader = () => {
         setTitle("Minha conta");
     }
   }, [location]);
-  
+
   return (
     <header className={styles.header}>
       <h1 className="title">{title}</h1>

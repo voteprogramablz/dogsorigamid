@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/dogsorigamid/static/css/main.c2fad6bd.css",
-    "main.js": "/dogsorigamid/static/js/main.a32c614c.js",
+    "main.css": "/dogsorigamid/static/css/main.f9171b31.css",
+    "main.js": "/dogsorigamid/static/js/main.6fae2014.js",
     "static/media/login.jpg": "/dogsorigamid/static/media/login.07d71f5b9d5714e556b0.jpg",
+    "static/media/enviar.svg": "/dogsorigamid/static/media/enviar.5581bea74419c0d0dd7aa4800ae613be.svg",
     "static/media/sair.svg": "/dogsorigamid/static/media/sair.a1917210ebb96c5029ada5135bdb8847.svg",
     "static/media/visualizacao-black.svg": "/dogsorigamid/static/media/visualizacao-black.ee94fd3d144dfc2f335a.svg",
     "static/media/visualizacao.svg": "/dogsorigamid/static/media/visualizacao.09cd5578a66295798789.svg",
@@ -12,11 +13,11 @@
     "static/media/dogs.svg": "/dogsorigamid/static/media/dogs.69bf6d229e8cb46f9023318d0802ee8f.svg",
     "static/media/estatisticas.svg": "/dogsorigamid/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
     "static/media/adicionar.svg": "/dogsorigamid/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
-    "main.c2fad6bd.css.map": "/dogsorigamid/static/css/main.c2fad6bd.css.map",
-    "main.a32c614c.js.map": "/dogsorigamid/static/js/main.a32c614c.js.map"
+    "main.f9171b31.css.map": "/dogsorigamid/static/css/main.f9171b31.css.map",
+    "main.6fae2014.js.map": "/dogsorigamid/static/js/main.6fae2014.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2fad6bd.css",
-    "static/js/main.a32c614c.js"
+    "static/css/main.f9171b31.css",
+    "static/js/main.6fae2014.js"
   ]
 }

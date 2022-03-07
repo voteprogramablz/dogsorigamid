@@ -38,7 +38,6 @@ export const UserStorage = ({ children }) => {
       const { url, options } = TOKEN_POST({ username, password });
       const tokenRes = await fetch(url, options);
       if (!tokenRes.ok) {
-        console.log(tokenRes);
         throw new Error(`Error: Usuário ou senha incorretos.`);
       }
       const { token } = await tokenRes.json();
